@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+logs/
+.streamlit/
+data/*.csv
+!data/demand_standard.csv
+!data/demand_high_volatility.csv
+!data/demand_strong_trend.csv
+!data/demand_missing_values.csv
